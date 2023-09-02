@@ -1,0 +1,8 @@
+{
+  "load_extensions": {
+    "ruler/edit": true
+  },
+  "ruler_column": [
+    "80"
+  ]
+}

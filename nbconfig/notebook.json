@@ -1,0 +1,75 @@
+{
+  "load_extensions": {
+    "autosavetime/main": true,
+    "codemirror_mode_extensions/main": true,
+    "code_prettify/isort": true,
+    "comment-uncomment/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "execute_time/ExecuteTime": true,
+    "freeze/main": true,
+    "go_to_current_running_cell/main": true,
+    "hide_header/main": true,
+    "hide_input_all/main": true,
+    "highlight_selected_word/main": true,
+    "init_cell/main": true,
+    "jupyter-js-widgets/extension": true,
+    "jupyterlab-plotly/extension": false,
+    "keyboard_shortcut_editor/main": true,
+    "livemdpreview/livemdpreview": true,
+    "nbextensions_configurator/config_menu/main": true,
+    "rubberband/main": true,
+    "ruler/main": true,
+    "scratchpad/main": true,
+    "scroll_down/main": true,
+    "skip-traceback/main": true,
+    "spellchecker/main": true,
+    "table_beautifier/main": true,
+    "toc2/main": true,
+    "toggle_all_line_numbers/main": true
+  },
+  "autosavetime_set_starting_interval": true,
+  "autosavetime_show_selector": false,
+  "comment_uncomment_indent": true,
+  "ExecuteTime": {
+    "clear_timings_on_clear_output": true,
+    "clear_timings_on_kernel_restart": true,
+    "display_absolute_format": "HH:mm:ss",
+    "display_right_aligned": true,
+    "relative_timing_update_period": "0",
+    "template": {
+      "executed": "${duration} -> ${end_time}",
+      "queued": "in a queue from ${start_time}"
+    }
+  },
+  "Freeze": {
+    "frozen_color": "#e0eaff",
+    "readonly_color": "#fff0f0"
+  },
+  "follow_cell_off_shortcut": "",
+  "follow_cell_on_shortcut": "",
+  "highlight_selected_word": {
+    "delay": "50",
+    "highlight_only_whole_words": false,
+    "only_cells_in_scroll": false
+  },
+  "init_cell": {
+    "run_on_kernel_ready": false
+  },
+  "is_follow_cell": false,
+  "livemdpreview": {
+    "show_side_by_side": true
+  },
+  "ruler_column": [
+    "80"
+  ],
+  "scrollDownIsEnabled": true,
+  "skip-traceback": {
+    "show_copy_buttons": false,
+    "use_toolbar_button": true
+  },
+  "toc2": {
+    "moveMenuLeft": false,
+    "number_sections": false
+  },
+  "toggle_all_linenumbers_enable_hotkey": false
+}
