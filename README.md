@@ -1,5 +1,5 @@
 # The project is aimed at
-Improve user experience when working with `.ipynb` files in Jupyter Notebook IDE as the most popular IDE in Data Science 🤟, and if you want to:
+Improve user experience when working with `.ipynb` files in Jupyter Notebook IDE as the most popular IDE in Data Science 🤟, and if you want the simpliest way to:
 1. Automatically get clear `.py` file – script which would look much better then 'Download as Python' version from IDE (and would also be [RECONVERTABLE](https://github.com/lyrics-by-vlad/any_project_template/tree/main) back to `.ipynb`) – at every time you save your `.ipynb` file. 
 > Usefully, e.g. when you want to run such a file from CLI / another script or to commit a version of it, etc.
 2. [Optional usage] Empty outputs, execution_count and other metadata from `.ipynb` automatically right before the time you save it.
