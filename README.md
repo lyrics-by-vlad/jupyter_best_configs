@@ -11,7 +11,7 @@ Improve user experience when working with `.ipynb` files in Jupyter Notebook IDE
 At first, just clone or download this repository.  
 
 1. To reach the first aim, just copy `jupyter_notebook_config.py` file (with replace if needed) into '.jupyter' directory (usually, you can find it in your home directory).
-1. To reach the second point, you should just have `jupyter_pre_save_hook_trigger.json` file with the following content:
+1. To reach the second point, you should just have `jupyter_pre_save_hook_trigger.json` [file](https://github.com/lyrics-by-vlad/any_project_template/blob/main/jupyter_pre_save_hook_trigger.json) with the following content:
    ```
    {
        "permission_allowed": true
